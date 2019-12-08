@@ -1,0 +1,11 @@
+Book;Limbajul succesului;Carol Kinsey Goman;Litera;1209;218;29.99
+Book;Limbajul succesului;Carol Kinsey Goman;Litera;1209;218;29.99
+Atlas;Atlasul Terrei;DeAgostini;Rao Books;1210;256;116;2007
+Atlas;Atlasul Terrei;DeAgostini;Rao Books;1210;256;116;2007
+Atlas;Atlas Geopolitic;Manuela Preda;Nemira;1214;200;123;2019
+Atlas;Atlas Istoric;Ioan Bratescu;Cuora;1215;187;160;2019
+Roman;Cel mai iubit dintre pamanteni;Marin Preda;Nemira;1211;300;50;Social politic si ideologic
+Roman;Cel mai iubit dintre pamanteni;Marin Preda;Nemira;1211;300;50;Social politic si ideologic
+Revista;Plante medicinale de la A la Z;Timea Covas;Litera;1212;230;20;Revista pentru sanatate
+ArtAlbum;Album de arta statica;Kristina Menzel;Prior;1213;300;138;112
+ArtAlbum;Album de fotografie;Tudor Salonic;AbstractArt;2133;450;48;112
